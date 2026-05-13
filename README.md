@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Soumyaranjan Dash
 🔭 I’m currently working on MERN technology.<br>👯 I’m looking to collaborate on Tech Stack. <br>🌱 I’m currently learning DSA(In JAVA)<br><br>
 
 
